@@ -2,7 +2,7 @@
     "pets": {
         "pet-ant": {
             "name": "Ant",
-            "id": "pet-ant",
+            "identifier": "pet-ant",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -203,7 +203,7 @@
         },
         "pet-beaver": {
             "name": "Beaver",
-            "id": "pet-beaver",
+            "identifier": "pet-beaver",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -401,7 +401,7 @@
         },
         "pet-beetle": {
             "name": "Beetle",
-            "id": "pet-beetle",
+            "identifier": "pet-beetle",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -576,7 +576,7 @@
         },
         "pet-bluebird": {
             "name": "Bluebird",
-            "id": "pet-bluebird",
+            "identifier": "pet-bluebird",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -748,7 +748,7 @@
         },
         "pet-cricket": {
             "name": "Cricket",
-            "id": "pet-cricket",
+            "identifier": "pet-cricket",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -940,7 +940,7 @@
         },
         "pet-duck": {
             "name": "Duck",
-            "id": "pet-duck",
+            "identifier": "pet-duck",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -1115,7 +1115,7 @@
         },
         "pet-fish": {
             "name": "Fish",
-            "id": "pet-fish",
+            "identifier": "pet-fish",
             "image": {
                 "source": "fxemoji",
                 "commit": "270af343bee346d8221f87806d2b1eee0438431a",
@@ -1298,7 +1298,7 @@
         },
         "pet-horse": {
             "name": "Horse",
-            "id": "pet-horse",
+            "identifier": "pet-horse",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -1470,7 +1470,7 @@
         },
         "pet-ladybug": {
             "name": "Ladybug",
-            "id": "pet-ladybug",
+            "identifier": "pet-ladybug",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -1645,7 +1645,7 @@
         },
         "pet-mosquito": {
             "name": "Mosquito",
-            "id": "pet-mosquito",
+            "identifier": "pet-mosquito",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -1840,7 +1840,7 @@
         },
         "pet-otter": {
             "name": "Otter",
-            "id": "pet-otter",
+            "identifier": "pet-otter",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -2018,7 +2018,7 @@
         },
         "pet-pig": {
             "name": "Pig",
-            "id": "pet-pig",
+            "identifier": "pet-pig",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -2199,27 +2199,9 @@
                 }
             ]
         },
-        "pet-sloth": {
-            "name": "Sloth",
-            "id": "pet-sloth",
-            "notes": "Has no special ability. Is kind of lame combat-wise. But he truly believes in you!",
-            "image": {
-                "source": "noto-emoji",
-                "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
-                "unicodeCodePoint": "🦥"
-            },
-            "tier": 1,
-            "baseAttack": 1,
-            "baseHealth": 1,
-            "packs": [
-                "StandardPack",
-                "ExpansionPack1",
-                "EasterEgg"
-            ]
-        },
         "pet-bat": {
             "name": "Bat",
-            "id": "pet-bat",
+            "identifier": "pet-bat",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -2385,7 +2367,7 @@
         },
         "pet-crab": {
             "name": "Crab",
-            "id": "pet-crab",
+            "identifier": "pet-crab",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -2560,7 +2542,7 @@
         },
         "pet-dodo": {
             "name": "Dodo",
-            "id": "pet-dodo",
+            "identifier": "pet-dodo",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -2741,7 +2723,7 @@
         },
         "pet-dog": {
             "name": "Dog",
-            "id": "pet-dog",
+            "identifier": "pet-dog",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -2943,7 +2925,7 @@
         },
         "pet-dromedary": {
             "name": "Dromedary",
-            "id": "pet-dromedary",
+            "identifier": "pet-dromedary",
             "image": {
                 "source": "noto-emoji",
                 "commit": "f2a4f72bffe0212c72949a22698be235269bfab5",
@@ -3115,7 +3097,7 @@
         },
         "pet-elephant": {
             "name": "Elephant",
-            "id": "pet-elephant",
+            "identifier": "pet-elephant",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -3281,7 +3263,7 @@
         },
         "pet-flamingo": {
             "name": "Flamingo",
-            "id": "pet-flamingo",
+            "identifier": "pet-flamingo",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -3474,7 +3456,7 @@
         },
         "pet-hedgehog": {
             "name": "Hedgehog",
-            "id": "pet-hedgehog",
+            "identifier": "pet-hedgehog",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -3658,7 +3640,7 @@
         },
         "pet-peacock": {
             "name": "Peacock",
-            "id": "pet-peacock",
+            "identifier": "pet-peacock",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -3845,7 +3827,7 @@
         },
         "pet-rat": {
             "name": "Rat",
-            "id": "pet-rat",
+            "identifier": "pet-rat",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -4023,7 +4005,7 @@
         },
         "pet-shrimp": {
             "name": "Shrimp",
-            "id": "pet-shrimp",
+            "identifier": "pet-shrimp",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -4211,9 +4193,9 @@
                 }
             ]
         },
-        "pet-spider": {
-            "name": "Spider",
-            "id": "pet-spider",
+        "pet-spidentifierer": {
+            "name": "Spidentifierer",
+            "identifier": "pet-spidentifierer",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -4397,7 +4379,7 @@
         },
         "pet-swan": {
             "name": "Swan",
-            "id": "pet-swan",
+            "identifier": "pet-swan",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -4572,7 +4554,7 @@
         },
         "pet-tabby-cat": {
             "name": "Tabby Cat",
-            "id": "pet-tabby-cat",
+            "identifier": "pet-tabby-cat",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -4738,7 +4720,7 @@
         },
         "pet-badger": {
             "name": "Badger",
-            "id": "pet-badger",
+            "identifier": "pet-badger",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -4887,7 +4869,7 @@
         },
         "pet-blowfish": {
             "name": "Blowfish",
-            "id": "pet-blowfish",
+            "identifier": "pet-blowfish",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -5050,7 +5032,7 @@
         },
         "pet-caterpillar": {
             "name": "Caterpillar",
-            "id": "pet-caterpillar",
+            "identifier": "pet-caterpillar",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -5190,7 +5172,7 @@
         },
         "pet-camel": {
             "name": "Camel",
-            "id": "pet-camel",
+            "identifier": "pet-camel",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -5342,7 +5324,7 @@
         },
         "pet-hatching-chick": {
             "name": "Hatching Chick",
-            "id": "pet-hatching-chick",
+            "identifier": "pet-hatching-chick",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -5492,7 +5474,7 @@
         },
         "pet-giraffe": {
             "name": "Giraffe",
-            "id": "pet-giraffe",
+            "identifier": "pet-giraffe",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -5644,7 +5626,7 @@
         },
         "pet-kangaroo": {
             "name": "Kangaroo",
-            "id": "pet-kangaroo",
+            "identifier": "pet-kangaroo",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -5796,7 +5778,7 @@
         },
         "pet-owl": {
             "name": "Owl",
-            "id": "pet-owl",
+            "identifier": "pet-owl",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -5948,7 +5930,7 @@
         },
         "pet-ox": {
             "name": "Ox",
-            "id": "pet-ox",
+            "identifier": "pet-ox",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -6133,7 +6115,7 @@
         },
         "pet-puppy": {
             "name": "Puppy",
-            "id": "pet-puppy",
+            "identifier": "pet-puppy",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -6282,7 +6264,7 @@
         },
         "pet-rabbit": {
             "name": "Rabbit",
-            "id": "pet-rabbit",
+            "identifier": "pet-rabbit",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -6445,7 +6427,7 @@
         },
         "pet-sheep": {
             "name": "Sheep",
-            "id": "pet-sheep",
+            "identifier": "pet-sheep",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -6605,7 +6587,7 @@
         },
         "pet-snail": {
             "name": "Snail",
-            "id": "pet-snail",
+            "identifier": "pet-snail",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -6771,7 +6753,7 @@
         },
         "pet-tropical-fish": {
             "name": "Tropical Fish",
-            "id": "pet-tropical-fish",
+            "identifier": "pet-tropical-fish",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -6917,7 +6899,7 @@
         },
         "pet-turtle": {
             "name": "Turtle",
-            "id": "pet-turtle",
+            "identifier": "pet-turtle",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -7080,7 +7062,7 @@
         },
         "pet-whale": {
             "name": "Whale",
-            "id": "pet-whale",
+            "identifier": "pet-whale",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -7203,7 +7185,7 @@
         },
         "pet-bison": {
             "name": "Bison",
-            "id": "pet-bison",
+            "identifier": "pet-bison",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -7345,7 +7327,7 @@
         },
         "pet-buffalo": {
             "name": "Buffalo",
-            "id": "pet-buffalo",
+            "identifier": "pet-buffalo",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -7474,7 +7456,7 @@
         },
         "pet-deer": {
             "name": "Deer",
-            "id": "pet-deer",
+            "identifier": "pet-deer",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -7610,7 +7592,7 @@
         },
         "pet-dolphin": {
             "name": "Dolphin",
-            "id": "pet-dolphin",
+            "identifier": "pet-dolphin",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -7746,7 +7728,7 @@
         },
         "pet-hippo": {
             "name": "Hippo",
-            "id": "pet-hippo",
+            "identifier": "pet-hippo",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -7875,7 +7857,7 @@
         },
         "pet-llama": {
             "name": "Llama",
-            "id": "pet-llama",
+            "identifier": "pet-llama",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -8004,7 +7986,7 @@
         },
         "pet-lobster": {
             "name": "Lobster",
-            "id": "pet-lobster",
+            "identifier": "pet-lobster",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -8133,7 +8115,7 @@
         },
         "pet-monkey": {
             "name": "Monkey",
-            "id": "pet-monkey",
+            "identifier": "pet-monkey",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -8242,7 +8224,7 @@
         },
         "pet-penguin": {
             "name": "Penguin",
-            "id": "pet-penguin",
+            "identifier": "pet-penguin",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -8371,7 +8353,7 @@
         },
         "pet-poodle": {
             "name": "Poodle",
-            "id": "pet-poodle",
+            "identifier": "pet-poodle",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -8480,7 +8462,7 @@
         },
         "pet-rooster": {
             "name": "Rooster",
-            "id": "pet-rooster",
+            "identifier": "pet-rooster",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -8610,7 +8592,7 @@
         },
         "pet-skunk": {
             "name": "Skunk",
-            "id": "pet-skunk",
+            "identifier": "pet-skunk",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -8746,7 +8728,7 @@
         },
         "pet-squirrel": {
             "name": "Squirrel",
-            "id": "pet-squirrel",
+            "identifier": "pet-squirrel",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -8873,7 +8855,7 @@
         },
         "pet-worm": {
             "name": "Worm",
-            "id": "pet-worm",
+            "identifier": "pet-worm",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -9015,7 +8997,7 @@
         },
         "pet-chicken": {
             "name": "Chicken",
-            "id": "pet-chicken",
+            "identifier": "pet-chicken",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -9127,7 +9109,7 @@
         },
         "pet-cow": {
             "name": "Cow",
-            "id": "pet-cow",
+            "identifier": "pet-cow",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -9233,7 +9215,7 @@
         },
         "pet-crocodile": {
             "name": "Crocodile",
-            "id": "pet-crocodile",
+            "identifier": "pet-crocodile",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -9336,7 +9318,7 @@
         },
         "pet-eagle": {
             "name": "Eagle",
-            "id": "pet-eagle",
+            "identifier": "pet-eagle",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -9433,7 +9415,7 @@
         },
         "pet-goat": {
             "name": "Goat",
-            "id": "pet-goat",
+            "identifier": "pet-goat",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -9530,7 +9512,7 @@
         },
         "pet-microbe": {
             "name": "Microbe",
-            "id": "pet-microbe",
+            "identifier": "pet-microbe",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -9653,7 +9635,7 @@
         },
         "pet-parrot": {
             "name": "Parrot",
-            "id": "pet-parrot",
+            "identifier": "pet-parrot",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -9788,7 +9770,7 @@
         },
         "pet-rhino": {
             "name": "Rhino",
-            "id": "pet-rhino",
+            "identifier": "pet-rhino",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -9900,7 +9882,7 @@
         },
         "pet-scorpion": {
             "name": "Scorpion",
-            "id": "pet-scorpion",
+            "identifier": "pet-scorpion",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -9971,7 +9953,7 @@
         },
         "pet-seal": {
             "name": "Seal",
-            "id": "pet-seal",
+            "identifier": "pet-seal",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -10092,7 +10074,7 @@
         },
         "pet-shark": {
             "name": "Shark",
-            "id": "pet-shark",
+            "identifier": "pet-shark",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -10201,7 +10183,7 @@
         },
         "pet-turkey": {
             "name": "Turkey",
-            "id": "pet-turkey",
+            "identifier": "pet-turkey",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -10310,7 +10292,7 @@
         },
         "pet-cat": {
             "name": "Cat",
-            "id": "pet-cat",
+            "identifier": "pet-cat",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -10391,7 +10373,7 @@
         },
         "pet-boar": {
             "name": "Boar",
-            "id": "pet-boar",
+            "identifier": "pet-boar",
             "image": {
                 "source": "noto-emoji",
                 "commit": "f2a4f72bffe0212c72949a22698be235269bfab5",
@@ -10493,7 +10475,7 @@
         },
         "pet-dragon": {
             "name": "Dragon",
-            "id": "pet-dragon",
+            "identifier": "pet-dragon",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -10595,7 +10577,7 @@
         },
         "pet-fly": {
             "name": "Fly",
-            "id": "pet-fly",
+            "identifier": "pet-fly",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -10688,7 +10670,7 @@
         },
         "pet-gorilla": {
             "name": "Gorilla",
-            "id": "pet-gorilla",
+            "identifier": "pet-gorilla",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -10787,11 +10769,11 @@
         },
         "pet-leopard": {
             "name": "Leopard",
-            "id": "pet-leopard",
+            "identifier": "pet-leopard",
             "image": {
                 "source": "fxemoji",
                 "commit": "270af343bee346d8221f87806d2b1eee0438431a",
-                "name": "leopardside",
+                "name": "leopardsidentifiere",
                 "unicodeCodePoint": "🐆"
             },
             "tier": 6,
@@ -10893,7 +10875,7 @@
         },
         "pet-mammoth": {
             "name": "Mammoth",
-            "id": "pet-mammoth",
+            "identifier": "pet-mammoth",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -10995,7 +10977,7 @@
         },
         "pet-octopus": {
             "name": "Octopus",
-            "id": "pet-octopus",
+            "identifier": "pet-octopus",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11100,7 +11082,7 @@
         },
         "pet-sauropod": {
             "name": "Sauropod",
-            "id": "pet-sauropod",
+            "identifier": "pet-sauropod",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11184,7 +11166,7 @@
         },
         "pet-snake": {
             "name": "Snake",
-            "id": "pet-snake",
+            "identifier": "pet-snake",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11280,7 +11262,7 @@
         },
         "pet-tiger": {
             "name": "Tiger",
-            "id": "pet-tiger",
+            "identifier": "pet-tiger",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11379,7 +11361,7 @@
         },
         "pet-tyrannosaurus": {
             "name": "Tyrannosaurus",
-            "id": "pet-tyrannosaurus",
+            "identifier": "pet-tyrannosaurus",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11475,7 +11457,7 @@
         },
         "pet-zombie-cricket": {
             "name": "Zombie Cricket",
-            "id": "pet-zombie-cricket",
+            "identifier": "pet-zombie-cricket",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11491,7 +11473,7 @@
         },
         "pet-bus": {
             "name": "Bus",
-            "id": "pet-bus",
+            "identifier": "pet-bus",
             "image": {
                 "source": "noto-emoji",
                 "commit": "f2a4f72bffe0212c72949a22698be235269bfab5",
@@ -11508,7 +11490,7 @@
         },
         "pet-zombie-fly": {
             "name": "Zombie Fly",
-            "id": "pet-zombie-fly",
+            "identifier": "pet-zombie-fly",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11523,7 +11505,7 @@
         },
         "pet-dirty-rat": {
             "name": "Dirty Rat",
-            "id": "pet-dirty-rat",
+            "identifier": "pet-dirty-rat",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11587,7 +11569,7 @@
         },
         "pet-chick": {
             "name": "Chick",
-            "id": "pet-chick",
+            "identifier": "pet-chick",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11603,7 +11585,7 @@
         },
         "pet-ram": {
             "name": "Ram",
-            "id": "pet-ram",
+            "identifier": "pet-ram",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11619,7 +11601,7 @@
         },
         "pet-butterfly": {
             "name": "Butterfly",
-            "id": "pet-butterfly",
+            "identifier": "pet-butterfly",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11653,7 +11635,7 @@
         },
         "pet-bee": {
             "name": "Bee",
-            "id": "pet-bee",
+            "identifier": "pet-bee",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -11671,7 +11653,7 @@
     "foods": {
         "food-apple": {
             "name": "Apple",
-            "id": "food-apple",
+            "identifier": "food-apple",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -11835,7 +11817,7 @@
         },
         "food-honey": {
             "name": "Honey",
-            "id": "food-honey",
+            "identifier": "food-honey",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -11997,7 +11979,7 @@
         },
         "food-cupcake": {
             "name": "Cupcake",
-            "id": "food-cupcake",
+            "identifier": "food-cupcake",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -12137,7 +12119,7 @@
         },
         "food-meat-bone": {
             "name": "Meat Bone",
-            "id": "food-meat-bone",
+            "identifier": "food-meat-bone",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -12275,7 +12257,7 @@
         },
         "food-sleeping-pill": {
             "name": "Sleeping Pill",
-            "id": "food-sleeping-pill",
+            "identifier": "food-sleeping-pill",
             "image": {
                 "source": "fxemoji",
                 "commit": "270af343bee346d8221f87806d2b1eee0438431a",
@@ -12415,7 +12397,7 @@
         },
         "food-garlic": {
             "name": "Garlic",
-            "id": "food-garlic",
+            "identifier": "food-garlic",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -12529,7 +12511,7 @@
         },
         "food-salad-bowl": {
             "name": "Salad Bowl",
-            "id": "food-salad-bowl",
+            "identifier": "food-salad-bowl",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -12646,7 +12628,7 @@
         },
         "food-canned-food": {
             "name": "Canned Food",
-            "id": "food-canned-food",
+            "identifier": "food-canned-food",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -12739,7 +12721,7 @@
         },
         "food-pear": {
             "name": "Pear",
-            "id": "food-pear",
+            "identifier": "food-pear",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -12831,7 +12813,7 @@
         },
         "food-chili": {
             "name": "Chili",
-            "id": "food-chili",
+            "identifier": "food-chili",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -12897,7 +12879,7 @@
         },
         "food-chocolate": {
             "name": "Chocolate",
-            "id": "food-chocolate",
+            "identifier": "food-chocolate",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -12963,7 +12945,7 @@
         },
         "food-sushi": {
             "name": "Sushi",
-            "id": "food-sushi",
+            "identifier": "food-sushi",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13032,7 +13014,7 @@
         },
         "food-melon": {
             "name": "Melon",
-            "id": "food-melon",
+            "identifier": "food-melon",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13074,7 +13056,7 @@
         },
         "food-mushroom": {
             "name": "Mushroom",
-            "id": "food-mushroom",
+            "identifier": "food-mushroom",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13116,7 +13098,7 @@
         },
         "food-pizza": {
             "name": "Pizza",
-            "id": "food-pizza",
+            "identifier": "food-pizza",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13161,7 +13143,7 @@
         },
         "food-steak": {
             "name": "Steak",
-            "id": "food-steak",
+            "identifier": "food-steak",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13203,7 +13185,7 @@
         },
         "food-milk": {
             "name": "Milk",
-            "id": "food-milk",
+            "identifier": "food-milk",
             "notes": "This is free!",
             "image": {
                 "source": "twemoji",
@@ -13237,7 +13219,7 @@
     "statuses": {
         "status-weak": {
             "name": "Weak",
-            "id": "status-weak",
+            "identifier": "status-weak",
             "image": {
                 "source": "noto-emoji",
                 "commit": "e022fd6573782431ac9a65b520376b57511c31cd",
@@ -13258,7 +13240,7 @@
         },
         "status-coconut-shield": {
             "name": "Coconut Shield",
-            "id": "status-coconut-shield",
+            "identifier": "status-coconut-shield",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13279,7 +13261,7 @@
         },
         "status-honey-bee": {
             "name": "Honey Bee",
-            "id": "status-honey-bee",
+            "identifier": "status-honey-bee",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13300,7 +13282,7 @@
         },
         "status-bone-attack": {
             "name": "Bone Attack",
-            "id": "status-bone-attack",
+            "identifier": "status-bone-attack",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13321,7 +13303,7 @@
         },
         "status-garlic-armor": {
             "name": "Garlic Armor",
-            "id": "status-garlic-armor",
+            "identifier": "status-garlic-armor",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13342,7 +13324,7 @@
         },
         "status-splash-attack": {
             "name": "Splash Attack",
-            "id": "status-splash-attack",
+            "identifier": "status-splash-attack",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13362,7 +13344,7 @@
         },
         "status-melon-armor": {
             "name": "Melon Armor",
-            "id": "status-melon-armor",
+            "identifier": "status-melon-armor",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13383,7 +13365,7 @@
         },
         "status-extra-life": {
             "name": "Extra Life",
-            "id": "status-extra-life",
+            "identifier": "status-extra-life",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13404,7 +13386,7 @@
         },
         "status-steak-attack": {
             "name": "Steak Attack",
-            "id": "status-steak-attack",
+            "identifier": "status-steak-attack",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13425,7 +13407,7 @@
         },
         "status-poison-attack": {
             "name": "Poison Attack",
-            "id": "status-poison-attack",
+            "identifier": "status-poison-attack",
             "image": {
                 "source": "twemoji",
                 "commit": "793a6a93f303c08877dd6eb589b2fabb3d1c45ee",
@@ -13448,7 +13430,7 @@
     "turns": {
         "turn-1": {
             "name": "Turn 1",
-            "id": "turn-1",
+            "identifier": "turn-1",
             "index": 1,
             "foodShopSlots": 1,
             "animalShopSlots": 3,
@@ -13458,7 +13440,7 @@
         },
         "turn-2": {
             "name": "Turn 2",
-            "id": "turn-2",
+            "identifier": "turn-2",
             "index": 2,
             "foodShopSlots": 1,
             "animalShopSlots": 3,
@@ -13468,7 +13450,7 @@
         },
         "turn-3": {
             "name": "Turn 3",
-            "id": "turn-3",
+            "identifier": "turn-3",
             "index": 3,
             "foodShopSlots": 2,
             "animalShopSlots": 3,
@@ -13478,7 +13460,7 @@
         },
         "turn-4": {
             "name": "Turn 4",
-            "id": "turn-4",
+            "identifier": "turn-4",
             "index": 4,
             "foodShopSlots": 2,
             "animalShopSlots": 3,
@@ -13488,7 +13470,7 @@
         },
         "turn-5": {
             "name": "Turn 5",
-            "id": "turn-5",
+            "identifier": "turn-5",
             "index": 5,
             "foodShopSlots": 2,
             "animalShopSlots": 4,
@@ -13498,7 +13480,7 @@
         },
         "turn-6": {
             "name": "Turn 6",
-            "id": "turn-6",
+            "identifier": "turn-6",
             "index": 6,
             "foodShopSlots": 2,
             "animalShopSlots": 4,
@@ -13508,7 +13490,7 @@
         },
         "turn-7": {
             "name": "Turn 7",
-            "id": "turn-7",
+            "identifier": "turn-7",
             "index": 7,
             "foodShopSlots": 2,
             "animalShopSlots": 4,
@@ -13518,7 +13500,7 @@
         },
         "turn-8": {
             "name": "Turn 8",
-            "id": "turn-8",
+            "identifier": "turn-8",
             "index": 8,
             "foodShopSlots": 2,
             "animalShopSlots": 4,
@@ -13528,7 +13510,7 @@
         },
         "turn-9": {
             "name": "Turn 9",
-            "id": "turn-9",
+            "identifier": "turn-9",
             "index": 9,
             "foodShopSlots": 2,
             "animalShopSlots": 5,
@@ -13538,7 +13520,7 @@
         },
         "turn-10": {
             "name": "Turn 10",
-            "id": "turn-10",
+            "identifier": "turn-10",
             "index": 10,
             "foodShopSlots": 2,
             "animalShopSlots": 5,
@@ -13548,7 +13530,7 @@
         },
         "turn-11": {
             "name": "Turn 11+",
-            "id": "turn-11",
+            "identifier": "turn-11",
             "index": 11,
             "foodShopSlots": 2,
             "animalShopSlots": 5,
